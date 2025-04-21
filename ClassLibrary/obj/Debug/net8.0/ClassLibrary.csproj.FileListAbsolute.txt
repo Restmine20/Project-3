@@ -1,0 +1,11 @@
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+D:\вуз\C#\проекты\Проект 3\Project 3\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll

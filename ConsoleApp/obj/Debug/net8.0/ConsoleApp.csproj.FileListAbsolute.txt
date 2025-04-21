@@ -1,0 +1,50 @@
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\JsonLibrary.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\JsonLibrary.pdb
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\VisualLibrary.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\VisualLibrary.pdb
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\SkiaSharp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3\ConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\SkiaSharp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\JsonLibrary.dll
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\VisualLibrary.dll
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\JsonLibrary.pdb
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\bin\Debug\net8.0\VisualLibrary.pdb
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\вуз\C#\проекты\Проект 3\Project 3_Ковалев И.А. 2410\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

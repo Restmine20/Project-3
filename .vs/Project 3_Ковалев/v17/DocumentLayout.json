@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAD5C9C-E761-43E2-9153-83525ED73607}|ClassLibrary\\JsonLibrary.csproj|d:\\\u0432\u0443\u0437\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442 3\\project 3_\u043A\u043E\u0432\u0430\u043B\u0435\u0432 \u0438.\u0430. 2410\\classlibrary\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAD5C9C-E761-43E2-9153-83525ED73607}|ClassLibrary\\JsonLibrary.csproj|solutionrelative:classlibrary\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0917F96-A026-4B34-AE1F-750E2450F91D}|ConsoleApp\\ConsoleApp.csproj|d:\\\u0432\u0443\u0437\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442 3\\project 3_\u043A\u043E\u0432\u0430\u043B\u0435\u0432 \u0438.\u0430. 2410\\consoleapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0917F96-A026-4B34-AE1F-750E2450F91D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAD5C9C-E761-43E2-9153-83525ED73607}|ClassLibrary\\JsonLibrary.csproj|d:\\\u0432\u0443\u0437\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442 3\\project 3_\u043A\u043E\u0432\u0430\u043B\u0435\u0432 \u0438.\u0430. 2410\\classlibrary\\ijsonobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAD5C9C-E761-43E2-9153-83525ED73607}|ClassLibrary\\JsonLibrary.csproj|solutionrelative:classlibrary\\ijsonobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAD5C9C-E761-43E2-9153-83525ED73607}|ClassLibrary\\JsonLibrary.csproj|d:\\\u0432\u0443\u0437\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442 3\\project 3_\u043A\u043E\u0432\u0430\u043B\u0435\u0432 \u0438.\u0430. 2410\\classlibrary\\jsonprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAD5C9C-E761-43E2-9153-83525ED73607}|ClassLibrary\\JsonLibrary.csproj|solutionrelative:classlibrary\\jsonprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAD5C9C-E761-43E2-9153-83525ED73607}|ClassLibrary\\JsonLibrary.csproj|d:\\\u0432\u0443\u0437\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442 3\\project 3_\u043A\u043E\u0432\u0430\u043B\u0435\u0432 \u0438.\u0430. 2410\\classlibrary\\jsonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAD5C9C-E761-43E2-9153-83525ED73607}|ClassLibrary\\JsonLibrary.csproj|solutionrelative:classlibrary\\jsonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2F5DA1-C35B-42CB-937C-E53CB7D40D42}|VisualLibrary\\VisualLibrary.csproj|d:\\\u0432\u0443\u0437\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442 3\\project 3_\u043A\u043E\u0432\u0430\u043B\u0435\u0432 \u0438.\u0430. 2410\\visuallibrary\\consoleoutputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2F5DA1-C35B-42CB-937C-E53CB7D40D42}|VisualLibrary\\VisualLibrary.csproj|solutionrelative:visuallibrary\\consoleoutputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0917F96-A026-4B34-AE1F-750E2450F91D}|ConsoleApp\\ConsoleApp.csproj|d:\\\u0432\u0443\u0437\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442 3\\project 3_\u043A\u043E\u0432\u0430\u043B\u0435\u0432 \u0438.\u0430. 2410\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0917F96-A026-4B34-AE1F-750E2450F91D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2F5DA1-C35B-42CB-937C-E53CB7D40D42}|VisualLibrary\\VisualLibrary.csproj|d:\\\u0432\u0443\u0437\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442 3\\project 3_\u043A\u043E\u0432\u0430\u043B\u0435\u0432 \u0438.\u0430. 2410\\visuallibrary\\graphs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2F5DA1-C35B-42CB-937C-E53CB7D40D42}|VisualLibrary\\VisualLibrary.csproj|solutionrelative:visuallibrary\\graphs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAD5C9C-E761-43E2-9153-83525ED73607}|ClassLibrary\\JsonLibrary.csproj|d:\\\u0432\u0443\u0437\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u043F\u0440\u043E\u0435\u043A\u0442 3\\project 3_\u043A\u043E\u0432\u0430\u043B\u0435\u0432 \u0438.\u0430. 2410\\classlibrary\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAD5C9C-E761-43E2-9153-83525ED73607}|ClassLibrary\\JsonLibrary.csproj|solutionrelative:classlibrary\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:53:05.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJSONObject.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ClassLibrary\\IJSONObject.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\IJSONObject.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ClassLibrary\\IJSONObject.cs",
+              "RelativeToolTip": "ClassLibrary\\IJSONObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:37:16.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleOutputs.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\VisualLibrary\\ConsoleOutputs.cs",
+              "RelativeDocumentMoniker": "VisualLibrary\\ConsoleOutputs.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\VisualLibrary\\ConsoleOutputs.cs",
+              "RelativeToolTip": "VisualLibrary\\ConsoleOutputs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:35:59.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ConsoleApp\\Menu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Menu.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ConsoleApp\\Menu.cs",
+              "RelativeToolTip": "ConsoleApp\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:29:58.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Graphs.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\VisualLibrary\\Graphs.cs",
+              "RelativeDocumentMoniker": "VisualLibrary\\Graphs.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\VisualLibrary\\Graphs.cs",
+              "RelativeToolTip": "VisualLibrary\\Graphs.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAowKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:48:31.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonParser.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ClassLibrary\\JsonParser.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\JsonParser.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ClassLibrary\\JsonParser.cs",
+              "RelativeToolTip": "ClassLibrary\\JsonParser.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:50:12.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ClassLibrary\\Visitor.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Visitor.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ClassLibrary\\Visitor.cs",
+              "RelativeToolTip": "ClassLibrary\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:41:37.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Relationship.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ClassLibrary\\Relationship.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Relationship.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ClassLibrary\\Relationship.cs",
+              "RelativeToolTip": "ClassLibrary\\Relationship.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAIwDwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:41:29.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonProcessing.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ClassLibrary\\JsonProcessing.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\JsonProcessing.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\C#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u041F\u0440\u043E\u0435\u043A\u0442 3\\Project 3_\u041A\u043E\u0432\u0430\u043B\u0435\u0432 \u0418.\u0410. 2410\\ClassLibrary\\JsonProcessing.cs",
+              "RelativeToolTip": "ClassLibrary\\JsonProcessing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:41:13.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
